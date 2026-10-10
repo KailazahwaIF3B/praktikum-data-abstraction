@@ -1,0 +1,5 @@
+log_id,timestamp,node_id,severity_level,metric_value
+1,2026-10-10 08:00:00,NODE-01,Low,12.5
+2,2026-10-10 08:15:00,NODE-02,Medium,45.0
+3,2026-10-10 08:30:00,NODE-01,High,89.2
+4,2026-10-10 08:45:00,NODE-03,Critical,120.4
